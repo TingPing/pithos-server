@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/jaypz/pithos-server",
+	"ImportPath": "github.com/TingPing/pithos-server",
 	"GoVersion": "go1.4.2",
 	"Deps": [
 		{
